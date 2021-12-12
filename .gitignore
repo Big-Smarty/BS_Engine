@@ -51,3 +51,4 @@ build/default/src/context/CMakeFiles/bs_context.dir/swapchain/swapchain.cpp.o
 build/default/src/context/CMakeFiles/bs_context.dir/window/window.cpp.o
 build/default/src/context/Debug/libbs_context.a
 build/default/src/renderstage/cmake_install.cmake
+CMakeUserPresets.json
